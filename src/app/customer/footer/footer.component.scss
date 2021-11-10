@@ -1,0 +1,8 @@
+@import "../../../styles.scss";
+.customer-footer {
+    margin-top: $px25*3+px;
+    .back-link {
+        padding: 0px 0px $px10+px $px10+px;
+        font-weight: bold;
+    }
+}
